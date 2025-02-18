@@ -73,6 +73,12 @@ for name in qrcodes.keys():
     print(f"{name} QR code with logo created successfully!")
 ```
 
+## Example:
+
+`name1_with_logo.png`
+
+![Example QR Code with Logo](static/name1_with_logo.png)
+
 ## License
 
 This project is licensed under the MIT License.
