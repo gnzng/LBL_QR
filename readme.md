@@ -32,8 +32,8 @@ from PIL import Image
 
 # Step 1: Create a dictionary of QR code names and URLs
 qrcodes = {
-    "als": "https://als.lbl.gov",
-    "google": "https://google.com",
+    "name1": "https://als.lbl.gov",
+    "name2": "https://google.com",
 }
 
 # Choose logo here
