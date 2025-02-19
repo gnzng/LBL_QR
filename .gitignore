@@ -3,6 +3,10 @@ ALS-Logos
 LBL_logos_bitmap
 finished_qrcodes/*
 
+# specific project files
+project_*.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
